@@ -1,6 +1,7 @@
 # Mera Mathew
 
 ![Headshot](Mera.jpg)
+
 |•Baltimore, MD | •[meramathew04@gmail.com](mailto:meramathew04@gmail.com) | •703-899-4738 | •[LinkedIn](http://www.linkedin.com/in/mera-mathew-026771170) | •[GitHub](https://github.com/MeraMathew) | 
 
 ---
