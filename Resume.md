@@ -1,13 +1,12 @@
 # Mera Mathew
+|•Baltimore, MD | •[meramathew04@gmail.com](mailto:meramathew04@gmail.com) | •703-899-4738 | •[LinkedIn](http://www.linkedin.com/in/mera-mathew-026771170) | •[GitHub](https://github.com/MeraMathew) | 
 
 ![Headshot](Mera.jpg)
-
-|•Baltimore, MD | •[meramathew04@gmail.com](mailto:meramathew04@gmail.com) | •703-899-4738 | •[LinkedIn](http://www.linkedin.com/in/mera-mathew-026771170) | •[GitHub](https://github.com/MeraMathew) | 
 
 ---
 
 ## Summary
-Data Engineer and aspiring Data Scientist with hands-on experience in **cloud computing, ETL pipelines, big data processing, and machine learning**. Skilled in AWS, Python, and data visualization tools, with a strong background in cybersecurity and real-time AI applications.
+Data Engineer specialized in AWS with expertise in SQL, Python, and Apache Airflow, experienced in optimizing large-scale data operations, and currently pursuing a Master’s in Data Science at the University of Maryland, Baltimore County.
 
 ---
 
