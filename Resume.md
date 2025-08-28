@@ -1,6 +1,6 @@
 # Mera Mathew
 
-![Headshot](Mera Mathew.jpg)
+![Headshot](Mera.jpg)
 
 **Location:** Baltimore, MD  
 **Email:** [meramathew04@gmail.com](mailto:meramathew04@gmail.com)  
