@@ -1,12 +1,7 @@
 # Mera Mathew
 
 ![Headshot](Mera.jpg)
-
-**Location:** Baltimore, MD  
-**Email:** [meramathew04@gmail.com](mailto:meramathew04@gmail.com)  
-**Phone:** 703-899-4738  
-**LinkedIn:** [linkedin.com/in/mera-mathew-026771170](http://www.linkedin.com/in/mera-mathew-026771170)  
-**GitHub:** [github.com/MeraMathew](https://github.com/MeraMathew)
+|•Baltimore, MD | •[meramathew04@gmail.com](mailto:meramathew04@gmail.com) | •703-899-4738 | •[LinkedIn](http://www.linkedin.com/in/mera-mathew-026771170) | •[GitHub](https://github.com/MeraMathew) | 
 
 ---
 
