@@ -27,6 +27,9 @@ This project develops a machine-learning regression model to **predict systolic 
 #### Data Sources
 NHANES survey cycles covering **August 2021 – August 2023**  
 (publicly available at [https://www.cdc.gov/nchs/nhanes/](https://www.cdc.gov/nchs/nhanes/)):
+#### Data Shape
+Rows: 7518  Columns: 17
+Approx file size (MB): 1.02
 
 To build a single machine-learning-ready table, **combined several NHANES component datasets** by joining on the unique participant ID `SEQN`:
 
