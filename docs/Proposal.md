@@ -1,3 +1,19 @@
+## Project Title  
+**Lifestyle-Based Blood Pressure Prediction Using Machine Learning**
+
+## Prepared for  
+UMBC Data Science Master’s Degree Capstone  
+Instructor: **Dr. Chaojie (Jay) Wang**
+
+## Author  
+**Mera Mathew**
+
+- **GitHub Repository:** https://github.com/MeraMathew/UMBC-DATA606-Capstone  
+- **LinkedIn Profile:** https://www.linkedin.com/in/mera-mathew-026771170/  
+- **PowerPoint Presentation:** *To be added*  
+- **YouTube Video Presentation:** *To be added*  
+
+
 # Lifestyle-Based Blood Pressure Prediction
 
 **Prepared for**: UMBC Data Science Master’s Degree Capstone – Dr. Chaojie (Jay) Wang  
