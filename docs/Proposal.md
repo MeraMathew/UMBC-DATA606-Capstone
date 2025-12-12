@@ -1,7 +1,7 @@
 # Lifestyle-Based Blood Pressure Prediction
 
 ## Prepared for  
-UMBC Data Science Master’s Degree Capstone  
+UMBC Data Science Master’s Degree Capstone  (Fall 2025)
 Instructor: **Dr. Chaojie (Jay) Wang**
 
 ## Author  
