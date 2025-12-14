@@ -10,7 +10,7 @@ Instructor: **Dr. Chaojie (Jay) Wang**
 
 - **GitHub Repository:** https://github.com/MeraMathew/UMBC-DATA606-Capstone  
 - **LinkedIn Profile:** https://www.linkedin.com/in/mera-mathew-026771170/  
-- **PowerPoint Presentation:** *To be added*  
+- **PowerPoint Presentation:** [docs/Blood_Pressure_Prediction_Presentation.pptx](docs/Blood_Pressure_Prediction_Presentation.pptx) 
 - **YouTube Video Presentation:** https://youtu.be/iThk3fUDH90  
 
 ## 2. Background
