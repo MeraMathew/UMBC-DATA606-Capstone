@@ -10,7 +10,7 @@ Instructor: **Dr. Chaojie (Jay) Wang**
 
 - **GitHub Repository:** https://github.com/MeraMathew/UMBC-DATA606-Capstone  
 - **LinkedIn Profile:** https://www.linkedin.com/in/mera-mathew-026771170/  
-- **PowerPoint Presentation:** [Download PowerPoint](docs/Lifestyle%20Based%20Blood%20Pressure%20Prediction.pptx)
+- **PowerPoint Presentation:** [Download PowerPoint](Lifestyle%20Based%20Blood%20Pressure%20Prediction.pptx)
 - **YouTube Video Presentation:** https://youtu.be/iThk3fUDH90  
 
 ## 2. Background
