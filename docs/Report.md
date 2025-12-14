@@ -5,7 +5,7 @@ UMBC Data Science Master’s Degree Capstone
 Term: Fall 2025  
 Instructor: **Dr. Chaojie (Jay) Wang**
 
-## Author  
+## 1. Author  
 **Mera Mathew**
 
 - **GitHub Repository:** https://github.com/MeraMathew/UMBC-DATA606-Capstone  
